@@ -48,7 +48,7 @@ class _BottomBarState extends State<BottomBar> {
         // Navigation items
         items: const [
           BottomNavigationBarItem(
-            // Home icon
+            // icon
             icon: Icon(FluentSystemIcons.ic_fluent_home_regular),
             activeIcon: Icon(FluentSystemIcons.ic_fluent_home_filled),
             label: 'Home',
