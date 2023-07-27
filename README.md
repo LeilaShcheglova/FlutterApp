@@ -14,8 +14,4 @@ The search page allows users to find round-trip tickets and book hotels. Additio
 The ticket page showcases an electronic ticket along with international flight information, including the destination, time, and date. A scannable barcode is also provided, which can be utilized during the boarding process.
 The final page within the profile screen displays information about the user's accumulated points and miles. Additionally, a button is available to access further details on how to earn more miles.
 
-Rapid UI Development: Flutter provides developers with flexible and powerful tools for creating user interfaces. This allows for efficient and swift development of visually appealing interfaces.
 
-Cross-Platform Development: One of the significant advantages of Flutter is its ability to develop applications for both iOS and Android platforms using the same codebase. This eliminates the need for separate development efforts, saving time and resources.
-
-Dart Programming Language: Dart, a language specifically developed by Google for Flutter, is the backbone of this application. Dart combines the simplicity and expressiveness of JavaScript with high performance and reliability. It offers a plethora of tools and features that streamline development and enhance code safety.
