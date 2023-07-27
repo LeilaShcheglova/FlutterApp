@@ -1,7 +1,5 @@
 
 Name: "FlyStay".
-Video Demo:  <URL https://youtu.be/dyDcGmxZp8E>
-Description:
   
 The concept behind this application is rather straightforward. It is a mobile application available for both Android and iOS platforms, developed using the Flutter framework and the Dart programming language. The primary purpose of the app is to facilitate the purchase of plane tickets and hotel reservations.
 
@@ -15,9 +13,6 @@ Just below, in a visually appealing ticket-like design, users can find relevant 
 The search page allows users to find round-trip tickets and book hotels. Additionally, a useful information section is available to assist users in preparing for their flights. This section becomes particularly important when traveling with animals, for instance, necessitating adequate preparation.
 The ticket page showcases an electronic ticket along with international flight information, including the destination, time, and date. A scannable barcode is also provided, which can be utilized during the boarding process.
 The final page within the profile screen displays information about the user's accumulated points and miles. Additionally, a button is available to access further details on how to earn more miles.
-As I review my code visually, I find it necessary to express my enthusiasm for this framework and the reasons behind my choice.
-
-Flutter was the framework of choice primarily due to its potential in my future endeavors.
 
 Rapid UI Development: Flutter provides developers with flexible and powerful tools for creating user interfaces. This allows for efficient and swift development of visually appealing interfaces.
 
